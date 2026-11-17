@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "huangguo_web",
+      "name": "黄果短剧",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/aenstan0/huangguo-fongmi-mirror@main/dist/huangguo_web_spider.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    }
+  ]
+}
